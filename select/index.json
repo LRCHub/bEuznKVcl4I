@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "カゲロウデイズ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+  "base_artist": "Leo/need",
+  "createdAt": "2026-02-27T12:01:59.332153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/01_カゲロウデイズ_96猫.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/02_カゲロウデイズ_じん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "じん(自然の敵P)",
+      "has_synced": true,
+      "path": "select/03_カゲロウデイズ_じん(自然の敵P).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カゲロウデイズ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/04_カゲロウデイズ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/05_カゲロウデイズ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "じん ft.田口囁一(感傷ベクトル)",
+      "has_synced": true,
+      "path": "select/06_カゲロウデイズ_じん_ft.田口囁一(感傷ベクトル).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カゲロウデイズ feat.初音ミク",
+      "artist": "じん(自然の敵P)",
+      "has_synced": true,
+      "path": "select/07_カゲロウデイズ_feat.初音ミク_じん(自然の敵P).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/08_カゲロウデイズ_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/09_カゲロウデイズ_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "じん（自然の敵P） feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/10_カゲロウデイズ_じん(自然の敵P)_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/11_カゲロウデイズ_じん.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/12_カゲロウデイズ_じん.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/13_カゲロウデイズ_じん.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/14_カゲロウデイズ_Jin.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/15_カゲロウデイズ_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "カゲロウデイズ",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/16_カゲロウデイズ_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "カゲロウデイズ (Kagerou Days)",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/17_カゲロウデイズ_(Kagerou_Days)_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Kagerou Days (カゲロウデイズ)",
+      "artist": "Wagakki Band（和楽器バンド）",
+      "has_synced": false,
+      "path": "select/18_Kagerou_Days_(カゲロウデイズ)_Wagakki_Band(和楽器バンド).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カゲロウデイズ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_カゲロウデイズ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.txt"
+    }
+  ]
+}
